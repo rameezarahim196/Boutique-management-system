@@ -1,0 +1,14 @@
+[
+    {
+        "age": 6,
+        "customer_id": 2,
+        "gender": "f",
+        "name": "ram"
+    },
+    {
+        "age": 84,
+        "customer_id": 23,
+        "gender": "f",
+        "name": "kj"
+    }
+]
